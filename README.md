@@ -1,6 +1,6 @@
 # SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search
 
-This repo contains all the code and data used to perform the experiments appearing in our paper "SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search".
+This repo contains the code (`robust_estim_sbm.ipynb` file) and data (`.csv` files) used to perform the experiments appearing in our paper "SubSearch: Robust Estimation and Outlier Detection for Stochastic Block Models via Subgraph Search".
 
 ## Dependencies
 All the dependencies are described in the `requirements.txt`. Please use Python >3.10.
